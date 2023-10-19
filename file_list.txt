@@ -1,0 +1,10 @@
+total 3.0K
+-rw-r--r-- 1 노동훈 197121 14 Oct 19 22:57 README.md
+-rw-r--r-- 1 노동훈 197121  0 Oct 19 22:58 file_list.txt
+-rw-r--r-- 1 노동훈 197121  5 Oct 19 22:53 test.txt
+-rw-r--r-- 1 노동훈 197121  6 Oct 19 22:54 test2.txt
+total 4.0K
+-rw-r--r-- 1 노동훈 197121  14 Oct 19 22:57 README.md
+-rw-r--r-- 1 노동훈 197121 238 Oct 19 22:58 file_list.txt
+-rw-r--r-- 1 노동훈 197121   5 Oct 19 22:53 test.txt
+-rw-r--r-- 1 노동훈 197121   6 Oct 19 22:54 test2.txt
